@@ -10,7 +10,7 @@ function Header() {
       <div className="header"> 
           <img src={Logo} width={100} style={{marginLeft:30,marginBottom:20,marginTop:20}}/>
        <ul className="menu" >                 
-       <li><Link to='/react' className="link">Home</Link></li>
+       <li><Link to='/React-Website' className="link">Home</Link></li>
        <li><Link to='about' className="link">Games</Link></li>
        <li><Link to='services' className="link">Service</Link></li>
        <li><Link to='contact' className="link"> Contact</Link></li>
