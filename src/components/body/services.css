@@ -1,0 +1,8 @@
+.back image{
+    background:linear-gradient(rgba(0,0,0,0.60),rgba(0,0,0,0.60)),url("https://static.vecteezy.com/system/resources/thumbnails/027/570/027/small/man-playing-arcades-error-404-flash-message-old-school-video-gaming-machine-website-landing-page-ui-design-not-found-cartoon-image-dreamy-vibes-flat-illustration-with-90s-retro-background-vector.jpg");
+    background-size:cover;
+   height:100vh;
+}
+.hover:hover{
+    transform: scale(1.2)
+}

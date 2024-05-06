@@ -1,0 +1,27 @@
+.header{
+    background-color:black;
+    padding-right:60px;
+}
+
+
+.menu{
+    display:inline-flex;
+    list-style-type:none;
+   float:right;
+   margin-left:20px;
+   
+}
+.menu li {
+    margin-top:40px;
+    padding-right:15px;
+    
+}
+.link{
+    color:white;
+    text-decoration: none;
+}
+
+    
+  
+
+  
